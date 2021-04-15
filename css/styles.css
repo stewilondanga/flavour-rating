@@ -163,10 +163,11 @@ body {
   border: none;
 }
 
-/*.cpc-table .cpc-table--body tr:hover {
+.cpc-table .cpc-table--body tr:hover {
   background-color: white;
 }
 
+/*
 #contact h1 {
   font-family: helvetica;
   font-weight: normal;
