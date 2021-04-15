@@ -141,7 +141,7 @@ body {
   transition: 1s ease;
 }
 
-/*.cpc-table .cpc-table--body tr td {
+.cpc-table .cpc-table--body tr td {
   color: #222f3e;
   font-size: 1em;
   font-weight: 100;
@@ -150,7 +150,8 @@ body {
   text-align: center;
   border-bottom: 1px solid;
 }
-.cpc-table .cpc-table--body tr td:nth-child(1) {
+
+/*.cpc-table .cpc-table--body tr td:nth-child(1) {
   text-transform: uppercase;
 }
 .cpc-table .cpc-table--body tr td .stars span {
