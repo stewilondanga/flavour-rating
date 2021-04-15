@@ -159,10 +159,11 @@ body {
   cursor: pointer;
 }
 
-/*.cpc-table .cpc-table--body tr:last-child td {
+.cpc-table .cpc-table--body tr:last-child td {
   border: none;
 }
-.cpc-table .cpc-table--body tr:hover {
+
+/*.cpc-table .cpc-table--body tr:hover {
   background-color: white;
 }
 
