@@ -114,7 +114,6 @@ body {
   transition-delay: 0.4s;
 }
 
-/*
 .cpc-table {
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2);
   width: 75%;
@@ -122,7 +121,8 @@ body {
   border-collapse: collapse;
   background-color: rgba(255, 255, 255, 0.5);
 }
-.cpc-table .cpc-table--headings {
+
+/*.cpc-table .cpc-table--headings {
   color: #fff;
 }
 .cpc-table .cpc-table--headings tr th {
