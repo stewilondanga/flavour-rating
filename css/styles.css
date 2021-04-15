@@ -126,7 +126,7 @@ body {
   color: #fff;
 }
 
-/*.cpc-table .cpc-table--headings tr th {
+.cpc-table .cpc-table--headings tr th {
   background-color: #ff9f43;
   font-size: 1.2em;
   text-transform: uppercase;
@@ -136,7 +136,8 @@ body {
   vertical-align: middle;
   text-align: center;
 }
-.cpc-table .cpc-table--body tr {
+
+/*.cpc-table .cpc-table--body tr {
   transition: 1s ease;
 }
 .cpc-table .cpc-table--body tr td {
