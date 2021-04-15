@@ -151,10 +151,11 @@ body {
   border-bottom: 1px solid;
 }
 
-/*.cpc-table .cpc-table--body tr td:nth-child(1) {
+.cpc-table .cpc-table--body tr td:nth-child(1) {
   text-transform: uppercase;
 }
-.cpc-table .cpc-table--body tr td .stars span {
+
+/*.cpc-table .cpc-table--body tr td .stars span {
   cursor: pointer;
 }
 .cpc-table .cpc-table--body tr:last-child td {
