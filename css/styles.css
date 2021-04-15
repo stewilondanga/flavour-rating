@@ -155,10 +155,11 @@ body {
   text-transform: uppercase;
 }
 
-/*.cpc-table .cpc-table--body tr td .stars span {
+.cpc-table .cpc-table--body tr td .stars span {
   cursor: pointer;
 }
-.cpc-table .cpc-table--body tr:last-child td {
+
+/*.cpc-table .cpc-table--body tr:last-child td {
   border: none;
 }
 .cpc-table .cpc-table--body tr:hover {
