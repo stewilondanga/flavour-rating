@@ -7,8 +7,8 @@ var navigate = (function() {
   });
 })();
 
-/*$(".cpc-table--body-rating span").click(function() {
-  if ($(this).css("opacity") == 1) {
+$(".cpc-table--body-rating span").click(function() {
+      /*if ($(this).css("opacity") == 1) {
     $(this).css("opacity", "0.5");
     $(this)
       .nextAll()
